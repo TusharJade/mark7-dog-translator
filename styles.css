@@ -2,6 +2,9 @@ body {
     margin: 0;
 }
 
+:root{
+    --primary-color: #D8B4FE;
+}
 
 #txt-input {
     margin: 1rem;
@@ -19,7 +22,7 @@ body {
 
 #btn-translate {
     padding: 1rem 3rem;
-    background-color: yellow;
+    background-color:var(--primary-color);
     border-radius: 0.5rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -47,7 +50,7 @@ body {
 }
 
 .yellow {
-    background-color: yellow;
+    background-color: var(--primary-color);
    padding: 2rem;    
    text-align: center;
    font-weight: bold;
@@ -57,7 +60,7 @@ body {
 }
 
 .yellow2{
-    background-color: yellow;
+    background-color:var(--primary-color);
    padding: 2rem;    
    text-align: center;
    font-weight: bold;
