@@ -3,4 +3,6 @@
  
  Again this is also a same as mark 6 but it has another doggy language which make this app differant fromm last one.
  
+ <h1>Tech stack used - HTML, CSS, JAVASCRIPT</h1>
+ 
  Here is limk lets have fun - https://mark7-doggy-talk-translator.netlify.app/
